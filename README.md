@@ -217,3 +217,5 @@ This project demonstrates a practical integration of Remote Sensing, Machine Lea
 
 **#Developed by Harsh Tomar
 M.Tech CSE, IIT Mandi
+<img width="953" height="565" alt="image" src="https://github.com/user-attachments/assets/7ea48415-01ea-45bf-ac68-1e62a817bee9" />
+
